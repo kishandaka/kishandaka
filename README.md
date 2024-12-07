@@ -3,13 +3,7 @@
 # 💫 About Me:
 🔭 Highlights: Currently I am working as a full-time React Native/Frontend Developer in Bitnet Infotech.I am using Styled Components,React/Redux,Git,Gitlab in Frontend <br><br>🌱 I like to build React native Applications and ReactJS web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are AWS and NodeJS.🙂<br><br>👯 I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together.<br><br>⚡ Fun fact: I like learn new thing everyday and improve my skills .<br><br>👋 Available for: Full-time Frontend/React Developer role.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishandaka&label=Profile%20views&color=0e75b6&style=flat" alt="kishandaka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishandaka" alt="kishandaka" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/kishan-daka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-daka" height="30" width="40" /></a>
 </p>
