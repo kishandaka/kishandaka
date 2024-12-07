@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kishan Daka</h1>
-<h3 align="center">A passionate React Native/Frontend Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+Native+Developer+%F0%9F%98%8E)](https://git.io/typing-svg)
+
+# 💫 About Me:
+🔭 Highlights: Currently I am working as a full-time React Native/Frontend Developer in Bitnet Infotech.I am using Styled Components,React/Redux,Git,Gitlab in Frontend <br><br>🌱 I like to build React native Applications and ReactJS web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are AWS and NodeJS.🙂<br><br>👯 I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together.<br><br>⚡ Fun fact: I like learn new thing everyday and improve my skills .<br><br>👋 Available for: Full-time Frontend/React Developer role.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishandaka&label=Profile%20views&color=0e75b6&style=flat" alt="kishandaka" /> </p>
 
